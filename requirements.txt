@@ -2,3 +2,5 @@ requests
 flask
 user_agent
 httpx
+cfonts
+rich
